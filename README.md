@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @cshunyee , a self-learned developer
-- 👀 I’m interested in software development 
-- 🌱 I’m currently learning web development with Django and AngularJs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @cshunyee , a software developer
+- 🌱 I’m currently using ReactJS, NextJS, NodeJS, Antd Design, Bootstrap, Python and Django.
+- Current or Next Learning Goal: React Native
+- Please reach me on cshunyee97@gmail.com or +6590189936
 
 <!---
 cshunyee/cshunyee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
